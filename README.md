@@ -38,7 +38,7 @@ Apenas o gerente tem acesso ao histórico de movimentações.
   <tr>
     <td align="center">
       <a href="https://github.com/fran-ss">
-        <img src="https://avatars.githubusercontent.com/u/153733849?v=4" width="80px;" alt=""/><br />
+        <img src="https://avatars.githubusercontent.com/u/130516779?s=96&v=4" width="80px;" alt=""/><br />
         <sub><b>Franciane Santos</b></sub>
       </a>
     </td>
