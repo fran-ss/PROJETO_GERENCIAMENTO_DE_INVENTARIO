@@ -50,13 +50,13 @@ Apenas o gerente tem acesso ao histórico de movimentações.
     </td>
     <td align="center">
       <a href="https://github.com/HagataEufrasia">
-        <img src="https://avatars.githubusercontent.com/u/151248507?v=4" width="80px;" alt=""/><br />
+        <img src="https://avatars.githubusercontent.com/u/150397379?v=4" width="80px;" alt=""/><br />
         <sub><b>Maria Hagata</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/RaissaMarques96">
-        <img src="https://avatars.githubusercontent.com/u/153123456?v=4" width="80px;" alt=""/><br />
+        <img src="https://avatars.githubusercontent.com/u/150480047?v=4" width="80px;" alt=""/><br />
         <sub><b>Raissa Marques</b></sub>
       </a>
     </td>
