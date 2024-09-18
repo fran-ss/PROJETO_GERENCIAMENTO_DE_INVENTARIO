@@ -22,7 +22,7 @@ Apenas o gerente tem acesso ao histórico de movimentações.
 ## Home
 ![Descrição da Imagem](telas/tela3.png)
 ## Detail
-![Descrição da Imagem](telas/tela4.png)
+<img src="telas/tela4.png" alt="Descrição da Imagem" width="480" height="270">
 ## Editar Produto
 ![Descrição da Imagem](telas/tela5.png)
 ## Deletar Produto
